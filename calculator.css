@@ -1,0 +1,42 @@
+
+h1{
+	color: black;
+	margin-bottom: 0;
+}
+
+.first-row{
+	background-color: grey;
+}
+
+.second-row{
+	background-color: blue;
+}
+
+.third-row{
+	background-color: green;
+}
+
+.fourth-row{
+	background-color: yellow;
+}
+
+.fifth-row{
+	background-color: pink;
+}
+
+.sixth-row{
+	background-color: red;
+}
+
+.vert-col{
+	background-color: brown;
+}
+
+.colm{
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+
+.txt{
+	color: white;
+}
